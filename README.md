@@ -8,10 +8,10 @@ To run:
 2. Navigate to folder where code is downloaded
 3. Open command line interface
 4. Execute commands:
- * >npm install
- * >npm run build
- * >npm install -g serve
- * >serve -s build
+  * >npm install
+  * >npm run build
+  * >npm install -g serve
+  * >serve -s build
 
 # Getting Started with Create React App
 
