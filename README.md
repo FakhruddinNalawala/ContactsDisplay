@@ -4,14 +4,14 @@ Only display, no other operations
 Here, data is fetched from https://jsonplaceholder.typicode.com/users and displayed using ReactJS.
 
 To run:
-* Install NodeJS and npm from https://nodejs.org/en/download/
-* Navigate to folder where code is downloaded
-* Open command line interface
-* Execute commands:
- - npm install
- - npm run build
- - npm install -g serve
- - serve -s build
+1. Install NodeJS and npm from https://nodejs.org/en/download/
+2. Navigate to folder where code is downloaded
+3. Open command line interface
+4. Execute commands:
+ * >npm install
+ * >npm run build
+ * >npm install -g serve
+ * >serve -s build
 
 # Getting Started with Create React App
 
