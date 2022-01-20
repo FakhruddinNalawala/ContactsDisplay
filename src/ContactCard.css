@@ -1,0 +1,56 @@
+.Contact-Card-Container {
+    margin: max(3vmin, 15px);
+    min-width: max(30vmin, 400px);
+}
+
+.Contact-Card {
+    border-radius: 16px;
+    background-color: white;
+    color: black;
+}
+
+.Contact-Card > p {
+    padding: 0px 8px 8px 8px;
+    margin: 0px;
+}
+
+i {
+    padding-left: 8px;
+}
+
+.Address-Block {
+    padding: 0px 8px 0px 8px;
+    margin: 0 0 8px 0;
+    display: none;
+    border-left: 1px solid gray;
+}
+
+.Address-Block.active {
+    display: inline-block;
+}
+
+.Address-Block p {
+    padding: 0;
+    margin: 0;
+}
+
+.Company-Block {
+    padding: 0px 8px 0px 8px;
+    margin: 0 0 8px 0;
+    display: none;
+    border-left: 1px solid gray;
+}
+
+.Company-Block.active {
+    display: inline-block;
+}
+
+.Company-Block p {
+    padding: 0;
+    margin: 0;
+}
+
+details p {
+    padding: 0;
+    margin: 0;
+}

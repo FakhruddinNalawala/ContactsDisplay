@@ -1,0 +1,48 @@
+.App {
+    text-align: center;
+    background-color: #405888;
+    min-height: 200vh;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.Container-Main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Inner-Row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Header-Row {
+    color: white;
+    width: 100vw;
+    font-size: calc(10px + 2vmin);
+    background-color: black;
+    position: fixed;
+    top: 0;
+}
+
+.Header-Row > * {
+    margin: 1vmin;
+}
+
+.Content {
+    color: white;
+    /* margin-top: calc(10px + 12vmin); */
+}
+
+.Contacts-Holder {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
