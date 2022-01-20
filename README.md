@@ -3,6 +3,16 @@ Only display, no other operations
 
 Here, data is fetched from https://jsonplaceholder.typicode.com/users and displayed using ReactJS.
 
+To run:
+* Install NodeJS and npm from https://nodejs.org/en/download/
+* Navigate to folder where code is downloaded
+* Open command line interface
+* Execute commands:
+** npm install
+** npm run build
+** npm install -g serve
+** serve -s build
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
